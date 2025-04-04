@@ -2,7 +2,8 @@
 
 export default function Home() {
   return (
-    <div> yerrr.
+    <div> 
+    Hello (site) !
     </div>
   );
 }
